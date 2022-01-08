@@ -1,0 +1,5 @@
+
+cd ..
+rmdir -p protein
+
+
